@@ -16,3 +16,13 @@ Laravel Easy File Crop and Upload simplifies the often complex task of handling 
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </div>
+
+## Screenshots
+
+<p align="center" width="100%">
+    <img width="80%" src="/images/screenshot-1.png">
+</p>
+
+<p align="center" width="100%">
+    <img width="80%" src="/images/screenshot-2.png">
+</p>
