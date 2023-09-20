@@ -26,3 +26,21 @@ Laravel Easy File Crop and Upload simplifies the often complex task of handling 
 <p align="center" width="100%">
     <img width="80%" src="/images/screenshot-2.png">
 </p>
+
+## Dependencies
+
+This project requires [Cropper.js](https://fengyuanchen.github.io/cropperjs/) and [Bootstrap](https://getbootstrap.com/docs). Please refer to the official documentation for Cropper.js and Bootstrap to install it and gain a better understanding of its functionality and usage.
+
+#### Cropper.js CDN
+
+```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.6.1/cropper.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.6.1/cropper.min.js"></script>
+```
+
+#### Bootstrap CDN
+
+```html
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+```
